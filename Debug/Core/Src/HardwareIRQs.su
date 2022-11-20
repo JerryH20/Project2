@@ -1,0 +1,6 @@
+../Core/Src/HardwareIRQs.c:9:6:NMI_Handler	8	static
+../Core/Src/HardwareIRQs.c:21:6:HardFault_Handler	8	static
+../Core/Src/HardwareIRQs.c:33:6:SVC_Handler	8	static
+../Core/Src/HardwareIRQs.c:43:6:PendSV_Handler	8	static
+../Core/Src/HardwareIRQs.c:53:6:SysTick_Handler	8	static
+../Core/Src/HardwareIRQs.c:100:6:Error_Handler	8	static
